@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Abdel\StudioProjects\KhbarY\app\libs\jsoup-1.8.2.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="580e4dd2a6125cc4037450b40623ac6a552c11df">
+        <dex dex="C:\Users\Abdel\StudioProjects\KhbarY\app\build\intermediates\pre-dexed\debug\jsoup-1.8.2-d2d8dc6ae2ed6f6cdfced5e95ebeffb13c6f8067.jar" />
+    </item>
+    <item
+        jar="C:\Users\Abdel\StudioProjects\KhbarY\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\22.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="80434c45861675a57d690fba5ca31c3d55c89489">
+        <dex dex="C:\Users\Abdel\StudioProjects\KhbarY\app\build\intermediates\pre-dexed\debug\classes-d0ebf14cdfd541dacda90bc561c273312900ca90.jar" />
+    </item>
+    <item
+        jar="C:\Users\Abdel\StudioProjects\KhbarY\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\jars\libs\internal_impl-22.1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9e070ad32b2700b0343e8e0cccc437733d91ba3a">
+        <dex dex="C:\Users\Abdel\StudioProjects\KhbarY\app\build\intermediates\pre-dexed\debug\internal_impl-22.1.1-2748fddcd669fa72bfe4083f2101049458a26d11.jar" />
+    </item>
+    <item
+        jar="C:\Users\Abdel\AppData\Local\Android\android-sdk\extras\android\m2repository\com\android\support\support-annotations\22.1.1\support-annotations-22.1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="01d051a6bfb1218b1db2d3a5af0480ac2c25c42a">
+        <dex dex="C:\Users\Abdel\StudioProjects\KhbarY\app\build\intermediates\pre-dexed\debug\support-annotations-22.1.1-fddfc4866065181e75f078b5e5062c04dd8f728e.jar" />
+    </item>
+    <item
+        jar="C:\Users\Abdel\StudioProjects\KhbarY\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a3ff3c506644c820eb2bdf06e8339f72be578551">
+        <dex dex="C:\Users\Abdel\StudioProjects\KhbarY\app\build\intermediates\pre-dexed\debug\classes-90fd99c6d1b87db7fada9c847dfe14acaa3e9ac2.jar" />
+    </item>
+    <item
+        jar="C:\Users\Abdel\StudioProjects\KhbarY\app\libs\recyclerview-v7-22.1.1-sources.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="229d3790abfedf8a28c0d91f29129929aa48f363">
+        <dex dex="C:\Users\Abdel\StudioProjects\KhbarY\app\build\intermediates\pre-dexed\debug\recyclerview-v7-22.1.1-sources-8158e52cf7e9e2006b9b7784cd8e536c27325ac8.jar" />
+    </item>
+    <item
+        jar="C:\Users\Abdel\StudioProjects\KhbarY\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c95ba8152923e4872e86a82cfcba9a51c0214328">
+        <dex dex="C:\Users\Abdel\StudioProjects\KhbarY\app\build\intermediates\pre-dexed\debug\classes-ad9716a480540b1db4a53b04bf81799fc639d829.jar" />
+    </item>
+
+</items>

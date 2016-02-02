@@ -1,0 +1,24 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=""
+    android:id="@+id/feedsHome"
+    >
+    <ma.info.abdel.khbary.VerticalPager
+        android:id="@+id/pager"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1">
+    </ma.info.abdel.khbary.VerticalPager>
+
+    <!--
+    <android.support.v7.widget.Ve
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:id="@+id/feedslistview"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        />-->
+</RelativeLayout>
+<!-- From: file:/C:/Users/Abdel/StudioProjects/KhbarY/app/src/main/res/layout/activity_feeds_home.xml -->
